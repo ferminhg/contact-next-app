@@ -1,6 +1,6 @@
-import Footer from '../components/footer'
-import Header from '../components/header'
-import WipMessage from '../components/wipMessage'
+import Footer from '../src/components/footer'
+import Header from '../src/components/header'
+import WipMessage from '../src/components/wipMessage'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
