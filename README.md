@@ -16,10 +16,17 @@ Tech Stack:
 
 ## Dev env setup
 
-Tun the development server:
+Run the development server:
 
 ```bash
 npm run dev
+```
+
+
+Test with jtest
+
+```bash
+npm run test
 ```
 
 Deployed by Vercel: https://contact-next-app.vercel.app/
