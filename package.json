@@ -19,5 +19,9 @@
   "devDependencies": {
     "eslint": "8.29.0",
     "eslint-config-next": "13.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ferminhg/contact-next-app.git"
   }
 }
